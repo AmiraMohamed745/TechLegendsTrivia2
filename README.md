@@ -29,7 +29,6 @@ Tech Legends Trivia is an Android application designed to test users' knowledge 
 ✔ **Project Structure**: Improved understanding of effective project organization and structuring.
 
 # To-Do
-* **Code Review**: Ensure the existing code is correct and logical.
 * **Refine Dependency Injection**: Identify and fix issues in the Hilt implementation.
 * **Testing**: Conduct unit and UI tests for application reliability.
 * **App Icon**: Design and add a distinct app icon.
