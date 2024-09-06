@@ -8,7 +8,7 @@ Tech Legends Trivia is an Android application designed to test users' knowledge 
 
 
 # Video Demo
-
+https://vimeo.com/1006970381 
 
 # Features:
 * Multiple choice questions about tech legends.
