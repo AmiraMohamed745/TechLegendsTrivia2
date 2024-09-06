@@ -8,7 +8,7 @@ Tech Legends Trivia is an Android application designed to test users' knowledge 
 
 
 # Video Demo
-https://vimeo.com/915082034?share=copy
+
 
 # Features:
 * Multiple choice questions about tech legends.
@@ -36,6 +36,6 @@ https://vimeo.com/915082034?share=copy
 * **Fix Known Issues**:
     * Image scaling in answer cards.
     * Correct level selection mechanism.
-    * Resolve skip behavior (described above).
+    * Resolve skip behavior.
     * Fix non-functional reset/exit buttons on the alert dialog.
 * **New Feature**: Add sound feedback for answers (vibration for wrong answers, reward sound for correct answers).
