@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tech Legends Trivia</string>
+    <string name="score">"Score: "</string>
+    <string name="skip_btn">Skip</string>
+    <string name="help_btn">Help</string>
+    <string name="skip_icon_description">Skip to next question</string>
+    <string name="help_icon_description">Get help for current question</string>
+    <string name="correct_msg">Correct!</string>
+    <string name="wrong_msg">Wrong!</string>
+    <string name="correct_answer_image_description">Image of %s.</string>
+    <string name="easy_level">Easy</string>
+    <string name="medium_level">Medium</string>
+    <string name="advanced_level">Advanced</string>
+    <string name="no_more_skips">No more skips!</string>
+    <string name="no_more_helps">No more helps!</string>
+    <string name="game_over">Game Over!</string>
+    <string name="easy_skips_warning">On Easy level you can\'t skip more than 5 times.</string>
+    <string name="medium_skips_warning">On Medium level you can\'t skip more than 3 times.</string>
+    <string name="advanced_skips_warning">On Advanced level you can\'t skip more than 1 time.</string>
+    <string name="easy_helps_warning">On Easy level you can\'t get help more than 3 times.</string>
+    <string name="medium_helps_warning">On Medium level you can\'t get help more than 2 times.</string>
+    <string name="advanced_helps_warning">On Advanced level you can\'t get help more than 1 time.</string>
+    <string name="game_over_final_score">Your score is %s.</string>
+    <string name="reset_game">Reset game</string>
+    <string name="okay_got_it">Okay, got it</string>
+    <string name="exit">Exit</string>
+</resources>
